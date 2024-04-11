@@ -1,0 +1,20 @@
+[
+  {
+    "DNI": "12121212M",
+    "Nombre": "Ok",
+    "Apellido": "Ko",
+    "Direccion": "ppp",
+    "Usuario": "piiiiiiiiiiiiiiiiii",
+    "Contras": "contrauser",
+    "esSupervisor": "True"
+  },
+  {
+    "DNI": "99999999R",
+    "Nombre": "Ooo",
+    "Apellido": "Pppp",
+    "Direccion": "oopo",
+    "Usuario": "uuu",
+    "Contras": "con",
+    "esSupervisor": "True"
+  }
+]
